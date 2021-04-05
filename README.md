@@ -3,8 +3,5 @@ Wine is one the most popular beverage in the world. Flavonoids include the antho
 
 In this study, I am aimed to understand the chemistry of wine and share the result with you.  
 
-from IPython.display import Image
-Image(filename='Wine_pH_scale.png')
-
-Wine_pH_scale.png
 # This is how the Flavonoid Molecules look like :)
+![Wine_pH_scale](https://user-images.githubusercontent.com/64262003/113576525-014ee680-9620-11eb-9e43-5a94bf3fe52c.png)
