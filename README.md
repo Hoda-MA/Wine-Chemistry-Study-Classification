@@ -8,6 +8,7 @@ In this study, I am aimed to understand the chemistry of wine and share the resu
 ![Wine_pH_scale](https://user-images.githubusercontent.com/64262003/113576525-014ee680-9620-11eb-9e43-5a94bf3fe52c.png)
 
 # Drawing the wine molecule!
+<img width="425" alt="Flavonoid" src="https://user-images.githubusercontent.com/64262003/113578025-78857a00-9622-11eb-838b-988412461778.png">
 
 
 <img width="830" alt="Untitled" src="https://user-images.githubusercontent.com/64262003/113577459-97374100-9621-11eb-88a5-6135e913cd82.png">
