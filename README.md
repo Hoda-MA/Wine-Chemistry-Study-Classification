@@ -1,4 +1,4 @@
-# Wines-Chemistry-Study
+# Wine-Chemistry-Study
 Wine is one the most popular beverage in the world. Flavonoids include the anthocyanins and tannins which contribute to the color and mouthfeel of the wine. Many people believe that red wine comes from red grapes and white wine comes from white grapes, While this is usually the case, it is for a different reason than most would assume.
 
 In this study, I am aimed to understand the chemistry of wine and share the result with you based on classification methods. For getting more familiar with the chemistry of wine, you may take a look on its pH-values. moreover, the properties of wine is dependent on the ingredients hence the pH.
