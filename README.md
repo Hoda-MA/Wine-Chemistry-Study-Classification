@@ -21,11 +21,7 @@ In this study, I am aimed to understand the chemistry of wine and share the resu
 
     
 ckecking the correlation between columns. I prefer personally the heat-map for doing this.
-#correlational heat map
-wine_corr=wine.iloc[:,:].corr();
-plt.figure(figsize=(12,6))
-sns.heatmap(wine_corr, cmap='YlGnBu', annot=True)
-    plt.show()
+
     
 ![download](https://user-images.githubusercontent.com/64262003/113577826-2cd2d080-9622-11eb-933d-52049a086dc6.png)
 
