@@ -20,7 +20,7 @@ In this study, I am aimed to understand the chemistry of wine and share the resu
 <img width="676" alt="wUntitled" src="https://user-images.githubusercontent.com/64262003/113578347-f5185880-9622-11eb-9d68-e3ad8599c38a.png">
 
     
-# ckecking the correlation between columns. I prefer personally the heat-map for doing this.
+ckecking the correlation between columns. I prefer personally the heat-map for doing this.
 #correlational heat map
 wine_corr=wine.iloc[:,:].corr();
 plt.figure(figsize=(12,6))
